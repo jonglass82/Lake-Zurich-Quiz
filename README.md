@@ -1,9 +1,2 @@
 # Lake-Zurich-Quiz
-# Lake-Zurich-Quiz
-# Lake-Zurich-Quiz
-# Lake-Zurich-Quiz
-# Lake-Zurich-Quiz
-# Lake-Zurich-Quiz
-# Lake-Zurich-Quiz
-# Lake-Zurich-Quiz
-# Lake-Zurich-Quiz
+
