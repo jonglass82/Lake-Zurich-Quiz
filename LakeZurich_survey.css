@@ -1,0 +1,33 @@
+@charset"utf-8";
+
+body{
+    padding: 20px;
+}
+
+li{
+    list-style: none;
+    padding: 10px;
+}
+
+p{
+    font-size: 20pt;
+    padding: 10px;
+    
+}
+
+#ans{
+    padding: 20px;
+    border-style: solid;
+    border-color: lightgrey;
+    border-radius: 10px;
+}
+
+#submit{
+    margin-top: 5%;
+}
+
+#reset{
+    float:right;
+    margin-top: 5%;
+    background-color: lightgray;
+}
